@@ -7,7 +7,7 @@
 Marwan, 19 ans, L1 Info, BTS SIO coming
 
 ### Competences :
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Competences coming soon :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,6 +17,9 @@ Marwan, 19 ans, L1 Info, BTS SIO coming
 ### Contacts :
 <a href="mailto:flaawzcontactpro@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
+<a href="https://twitter.com/Impxxxct">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+
 
 
 
