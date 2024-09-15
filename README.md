@@ -4,7 +4,7 @@
 
 
 ## ‼️ Presentations
-virrae, L1 Info, BTS SIO coming
+virrae, 1y in L1 Info, actually in BTS SIO
 
 
 ### Competences :
